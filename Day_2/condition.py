@@ -6,7 +6,7 @@ age = input('How old are you?\n')
 elif int(age) < 27:
     print("You are so young")'''
 
-
+ 
 if int(age) > 50:
     print("You are an old nigga")
 elif int(age) < 27:
